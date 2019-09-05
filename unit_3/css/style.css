@@ -3,7 +3,11 @@ body {
 }
 h1 {color: #ffffff;
 	font-family: helvetica;
+	text-align:center;
 }
 #slogan {
 	font-style: italic;
+	text-align: center;
+}
+p {color: #ffffff;
 }
