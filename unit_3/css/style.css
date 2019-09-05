@@ -12,8 +12,10 @@ h1 {color: #ffffff;
 
 #everything {align:center;}
 
-img {align: center;}
 
 h2 {color: #ffffff;
 	text-align: center;
+}
+h3 {text-align: center;
+color:#000000;
 }
