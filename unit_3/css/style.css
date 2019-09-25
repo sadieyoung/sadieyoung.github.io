@@ -6,12 +6,13 @@
 body {
 	background-color: #008181;
 }
-h1 {font-family: 'Give You Glory', cursive;
+h1 {
+	font-family: 'Monoton', cursive;
 	color: #ffffff;
 	text-align:center;
 }
 #slogan {
-	font-family: 'Open Sans', sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-style: italic;
 	text-align: center;
 }
@@ -23,12 +24,12 @@ img { display: block;
 }
 
 h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: Helvetica, sans-serif;
 	color: #ffffff;
 	text-align: center;
 }
 h3 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: Helvetica, sans-serif;
 	text-align: center;
 	color:#000000;
 }
