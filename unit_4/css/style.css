@@ -8,11 +8,11 @@ body {
 }
 h1 {
 	font-family: 'Monoton', cursive;
-	color: #ffffff;
+	color: #000000;
 	text-align:center;
 }
 #slogan {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	font-style: italic;
 	text-align: center;
 }
@@ -24,12 +24,12 @@ img { display: block;
 }
 
 h2 {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	color: #ffffff;
 	text-align: center;
 }
 h3 {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	color:#000000;
 }
