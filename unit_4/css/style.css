@@ -1,7 +1,8 @@
 *
 {
 	padding: 0;
-	Margin: 0;
+	margin: 0;
+	box-sizing: border-box;
 }
 body {
 	background-color: #008181;
@@ -20,11 +21,7 @@ h1 {
 }
 
 img { display: block;
-  	margin-left: auto;
-  	margin-right: auto;
- 	width: 50%;
- 	margin-top: 15px;
- 	margin-bottom: 15px;
+ 	width: 100%;	
 }
 
 h2 {
@@ -36,4 +33,15 @@ h3 {
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	color:#000000;
+}
+
+.three-columns .column{
+	width: 33.33%;
+	padding: 10px;
+	float:left;
+}
+.two-columns .column{
+	width: 50%;
+	padding: 10px;
+	float:left;
 }
