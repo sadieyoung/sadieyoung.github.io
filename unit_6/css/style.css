@@ -55,7 +55,7 @@ h3 {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 35%;
 }
 
 #right {
@@ -63,5 +63,5 @@ h3 {
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 62%;
+    width: 25%;
 }
