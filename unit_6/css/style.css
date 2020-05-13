@@ -38,9 +38,8 @@ border: 1px black solid;
 padding:20px;
 }
 
-#left {
-img	display: inline-block;
-float: left;
+article img {
+margin: 0 10px 10px 0;
  	}
 
 
