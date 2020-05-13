@@ -39,10 +39,7 @@ padding:20px;
 }
 
 #left {
-img display: block;
- 	width: 25%
- 	height: 25;
- 	padding: 10px;	
+img	display: inline-block;
  	}
 
 
