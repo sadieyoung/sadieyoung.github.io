@@ -76,6 +76,15 @@ h3 {
     padding: 20px;
 }
 
+#clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
 #left {
     bbackground-color: violet;
     border: 1px black solid;
@@ -89,13 +98,4 @@ h3 {
     padding: 20px;
     float: right;   
     width: 62%;
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
 }
