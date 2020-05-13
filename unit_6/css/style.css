@@ -21,8 +21,7 @@ h1 {
 }
 
 img { display: block;
- 	width: 75%;
- 	padding: 25%	
+width: 100%; 	
 }
 
 h2 {
