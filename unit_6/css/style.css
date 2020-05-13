@@ -42,17 +42,9 @@ h3 {
 	float:left;
 }
 
-#two_column {
-    background-color: #ffffff;
-    border: 1px black solid;
-    padding: 20px;
-}
-
 
 #right {
     background-color: #ffffff;
-    border: 1px black solid;
-    padding: 20px;
     float: right;   
-    width: 62%;
+    width: 50%;
 }
