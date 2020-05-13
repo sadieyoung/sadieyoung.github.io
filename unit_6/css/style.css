@@ -43,23 +43,14 @@ h3 {
 }
 
 #two_column {
-    background-color: #FFB7CF;
+    background-color: #ffffff;
     border: 1px black solid;
     padding: 20px;
 }
 
-#clearfix: after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
-
 
 #right {
-    background-color: #FFB7CF;
+    background-color: #ffffff;
     border: 1px black solid;
     padding: 20px;
     float: right;   
