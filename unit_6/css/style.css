@@ -41,6 +41,8 @@ article {
 
 article img {
   margin: 0 10px 10px 0;
+  height:75;
+  width: 75:;
 }
 
 article p {
