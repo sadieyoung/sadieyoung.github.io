@@ -35,6 +35,15 @@ h3 {
 	color:#000000;
 }
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
 #two_column {
     background-color: #ffffff;
     border: 1px black solid;
@@ -45,10 +54,14 @@ h3 {
     background-color: #ffffff;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 30%;
 }
 
 #right {
     background-color: #ffffff;
     border: 1px black solid;
     padding: 20px;
+    float: right;   
+    width: 62%;
 }
