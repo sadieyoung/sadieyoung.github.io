@@ -76,7 +76,7 @@ h3 {
     padding: 20px;
 }
 
-#clearfix:after {
+#clearfix: after {
     visibility: hidden;
     display: block;
     font-size: 0;
@@ -86,7 +86,7 @@ h3 {
 }
 
 #left {
-    bbackground-color: violet;
+    background-color: violet;
     border: 1px black solid;
     padding: 20px;
     float: left;
