@@ -51,20 +51,21 @@ h3 {
 #two_column {
     background-color: #ffffff;
     border: 1px black solid;
-    padding: 20px;
+    padding: 15%;
 }
 
 #left {
     background-color: #ffffff;
     border: 2px black solid;
-    padding: 30px;
+    padding-left: 30px;
+    float: left;
     width: 25%;
 }
 
 #right {
     background-color: #ffffff;
     border: 2px black solid;
-    padding: 30px;
+    padding-right: 30px;
     float: right;   
     width: 25%;
 }
