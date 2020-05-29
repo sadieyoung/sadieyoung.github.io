@@ -46,19 +46,23 @@ h3 {
     padding: .5em 0;
     line-height: 1.3;
     text-align: center;
+}
 
-p {
-    font-family: 'helvetica', sans-serif;
+
+ h4 {
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 1.25em;
     padding: .5em 0;
     line-height: 1.3;
     align-items: center;
 }
 
-a {
-    color: #CCA1B5;
-    text-decoration: none;
-    font-size: 1.5em;
+h5 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.25em;
+    padding: .5em 0;
+    line-height: 1.3;
+    align-items: center;
 }
 
 img {
