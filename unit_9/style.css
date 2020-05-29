@@ -65,7 +65,7 @@ img {
 .about figcaption.subcontainer {
     width: 60%;
     padding-left: 2em;
-    text-align: justify;
+    text-align: center;
 }
 
 .clearfix:after{
