@@ -4,7 +4,9 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-head {font-family: 'DM Mono', monospace;}
+head {font-family: 'DM Mono', monospace;
+padding: .25em;
+}
 
 
 h1 {
