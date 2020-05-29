@@ -52,7 +52,7 @@ p {
     font-size: 1.25em;
     padding: .5em 0;
     line-height: 1.3;
-    text-align: center;
+    align-items: center;
 }
 
 a {
@@ -64,10 +64,10 @@ a {
 img {
     width: 75%;
     display: block;
+    align-items: center;
     }
 
 .about figure.subcontainer {
-    width: 40%;
     align-items: center;
 
 }
