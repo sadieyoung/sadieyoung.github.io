@@ -68,13 +68,14 @@ img {
 
 .about figure.subcontainer {
     width: 40%;
+    align-items: center;
 
 }
 
 .about figcaption.subcontainer {
     width: 60%;
-    padding-left: 2em;
-    text-align: justify;
+    align-items: center;
+    text-align: center;
 }
 
 .clearfix:after{
